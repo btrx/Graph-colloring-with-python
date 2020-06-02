@@ -3,13 +3,6 @@ from helper_foo import *
 
 """Pencarian solusi dari pewarnaan graf dengan menggunakan algoritma genetik"""
 
-__author__ = "Jan Krepl"
-__copyright__ = "Copyright 2017, Jan Krepl"
-__license__ = "MIT"
-__version__ = "1.0"
-__email__ = "jankrepl@yahoo.com"
-__status__ = "Production"
-
 # PARAMETERS
 population_size = 100  # Konstanta populasi
 n_nodes = 18  # Jumlah negara = jumlah node dalam graf
