@@ -1,5 +1,5 @@
 import tkinter as tk
-from helper_foo import *
+from algen import *
 
 def getParameter():
 
