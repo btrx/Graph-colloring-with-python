@@ -1,5 +1,5 @@
 
-from helper_foo import *
+from algen import *
 
 """Pencarian solusi dari pewarnaan graf dengan menggunakan algoritma genetik"""
 
